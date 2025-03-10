@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Software engineering projects.
+
 🌱 I’m currently learning some stuff related to AI.
 [![Zaiyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chriszai)](https://github.com/anuraghazra/github-readme-stats)
+[![Zaiyu](https://github-profile-trophy.vercel.app/?username=Chriszai)](https://github.com/ryo-ma/github-profile-trophy)
