@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Zaiyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisCheng)](https://github.com/anuraghazra/github-readme-stats)
+🔭 I’m currently working on Software engineering projects.
+🌱 I’m currently learning some stuff related to AI.
+[![Zaiyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chriszai)](https://github.com/anuraghazra/github-readme-stats)
